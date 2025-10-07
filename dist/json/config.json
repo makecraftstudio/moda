@@ -1,0 +1,18 @@
+{
+    "isMuseum": false,
+    "rememberLanguage": true,
+    "defaultLanguage": "es",
+    "updateTime": 600000,
+    "defaultApp": 0,
+    "exitScreenSaverTime": "17:00",
+    "isDebug": true,
+    "showContextMenu": false,
+    "showMouse": false,
+    "isFullScreen": false,
+    "iddleTimeCheck": 10000,
+    "questionTime": 15,
+    "tipTime": 10,
+    "qrTime": 15,
+    "closingHour": 22
+}
+

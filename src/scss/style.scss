@@ -1,0 +1,33 @@
+
+@import "../vendors/bootstrap/scss/bootstrap.scss";
+
+$fa-font-path: "../../fonts/webfonts";
+
+$slick-font-path : "../../dist/fonts";
+
+$slick-font-family : "../../dist/fonts/slick";
+
+@import "../vendors/fontawesome-free/scss/fontawesome.scss";
+
+@import "../vendors/fontawesome-free/scss/solid.scss";
+
+@import "../vendors/fontawesome-free/scss/brands.scss";
+
+@import "../vendors/slick/slick.scss";
+
+@import "../vendors/slick/slick-theme.scss";
+
+@import "../vendors/videojs/dist/video-js.min";
+
+@import "cssComponent/playerStyle";
+
+@import "tympanus/normalize.scss";
+
+@import "tympanus/demo.scss";
+
+@import "tympanus/revealer.scss";
+
+@import "fonts.scss";
+
+@import "general.scss";
+

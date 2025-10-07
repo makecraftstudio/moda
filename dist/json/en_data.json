@@ -1,0 +1,59 @@
+{
+    "align": "left",
+    "content": {
+        "title": "What did you think of the experience?",
+        "subtitle": "Help us improve with this satisfaction survey",
+        "questionHeader": "Question",
+        "startButton": "Start",
+        "endTitle": "Thank you very much for helping us improve the experience!",
+        "restartButton": "Restart",
+        "exitTitle": "Thank you for your visit",
+        "exitDescription": "Thank you for your visit to the museum. We are about to close.<br> See you tomorrow from 10:00 a.m.",
+        "langButtons": {
+            "es": "Español",
+            "en": "English",
+            "pt": "Português"
+        },
+        "questions": {
+            "0": {
+                "q": "What did you think of the content seen in the different applications?",
+                "answers": {
+                    "0": "Very good",
+                    "1": "Good",
+                    "2": "Bad",
+                    "3": "Indifferent"
+                }
+            },
+            "1": {
+                "q": "How do you rate the attention of the museum staff?",
+                "answers": {
+                    "0": "Very good",
+                    "1": "Good",
+                    "2": "Bad",
+                    "3": "Indifferent"
+                }
+            },
+            "2": {
+                "q": "Do you consider that the museum infrastructure is:",
+                "answers": {
+                    "0": "Visually attractive",
+                    "1": "It can be better",
+                    "2": "I do not like",
+                    "3": "Indifferent"
+                }
+            },
+            "3": {
+                "q": "Does the staff keep you informed of the services the museum provides?",
+                "answers": {
+                    "0": "They have helped me a lot",
+                    "1": "I have not heard about the services"
+                }
+            }
+        },
+        "tips": {
+            "0": "'El Obelisco' was built in 1936 on the occasion of the fourth centenary of the so-called first foundation of Buenos Aires by Pedro de Mendoza.",
+            "1": "In March 1937, by decree of the mayor Mariano de Vedia y Miter, the opening of 9 de Julio Avenue was ordered, based on the designs of Della Paolera.",
+            "2": "The Colón theater operated in two buildings, the first located in the Plaza de Mayo until 1888 and the second located in front of the Plaza Lavalle, which took 20 years to be built until its inauguration in 1908."
+        }
+    }
+}

@@ -1,0 +1,14 @@
+body {
+
+    &.child-version {
+
+        .header-menu {
+            background-color: rgb(201, 201, 201) !important;
+
+            a {
+                background-color: rgb(204, 204, 204) !important;
+                color: rgb(46, 46, 46) !important;
+            }
+        }
+    }
+}

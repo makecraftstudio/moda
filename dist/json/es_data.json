@@ -1,0 +1,854 @@
+{
+    "align": "left",
+    "content": {
+        "title": "Accesorios - Buenos Aires Museo",
+        "exitTitle": "Gracias por tu visita",
+        "lolaVideo": "lola.mp4",
+        "exitDescription": "Gracias por tu visita al museo. Estamos por cerrar.<br>Te esperamos mañana desde las 10:00hs",
+        "langButtons": {
+            "es": "Español",
+            "en": "English",
+            "pt": "Português"
+        },
+        "sections": {
+            "0": {
+                "isHome": true,
+                "navPrevGrid":"7/2/12/5",
+                "navNextGrid":"12/24/17/27",
+                "photos": {
+                    "0": {
+                        "jpg": "feria.webp",
+                        "section": 1,
+                        "sectionName": "Mercados y ferias",
+                        "sectionNameGrid": "4/3/6/10",
+                        "gridArea":"6/5/12/11",
+                        "delay": "50",
+                        "direction": null
+                    },
+                    "1": {
+                        "jpg": "oficios.webp",
+                        "section": 2,
+                        "sectionName": "Oficios",
+                        "sectionNameGrid": "2/11/5/14",
+                        "gridArea":"4/11/12/19",
+                        "delay": "200",
+                        "direction": null
+                    },
+                    "2": {
+                        "jpg": "practicas.webp",
+                        "section": 3,
+                        "sectionName": "Prácticas urbanas",
+                        "sectionNameGrid": "16/1/19/3",
+                        "gridArea":"12/3/19/11",
+                        "delay": "100",
+                        "direction": "ltr"
+                    },
+                    "3": {
+                        "jpg": "carnaval.webp",
+                        "section": 4,
+                        "sectionName": "Carnaval",
+                        "sectionNameGrid": "20/11/22/15",
+                        "gridArea":"12/11/20/18",
+                        "delay": "40",
+                        "direction": null
+                    },
+                    "4": {
+                        "jpg": "tienda.webp",
+                        "section": 5,
+                        "sectionName": "Tiendas y confiterías",
+                        "sectionNameGrid": "17/24/20/27",
+                        "gridArea":"14/18/20/23",
+                        "delay": "70",
+                        "direction": "ltr"
+                    },
+                    "5": {
+                        "jpg": "transporte.webp",
+                        "section": 6,
+                        "sectionName": "Transporte",
+                        "sectionNameGrid": "29/8/30/12",
+                        "gridArea":"22/8/29/14",
+                        "delay": "40",
+                        "direction": "ttb"
+                    },
+                    "6": {
+                        "jpg": "visitas.webp",
+                        "section": 7,
+                        "sectionName": "Vistas Icónicas",
+                        "sectionNameGrid": "27/19/29/25",
+                        "gridArea":"20/18/27/25",
+                        "delay": "100",
+                        "direction": "ltr"
+                    },
+                    "7": {
+                        "jpg": "verano.webp",
+                        "section": 8,
+                        "sectionName": "Verano e invierno",
+                        "sectionNameGrid": "3/19/6/26",
+                        "gridArea":"5/19/14/24",
+                        "delay": "50",
+                        "direction": null
+                    },
+                    "8": {
+                        "jpg": "infancia.webp",
+                        "section": 9,
+                        "sectionName": "Desde la infancia",
+                        "sectionNameGrid": "27/1/29/7",
+                        "gridArea":"19/1/27/8",
+                        "delay": "50",
+                        "direction": null
+                    }
+                }
+            },
+            "1": {
+                "title": "Mercados y ferias",
+                "isHome": false,
+                "hasVideo": false,
+                "subtitle": "Los mercados y las ferias fueron importantes centros comerciales, de negocios y de  trabajo para hombres y mujeres, quienes  tuvieron un rol muy activo en la atención de los locales. Los puestos estaban controlados y regulados por el Estado y los rubros más comunes eran la carnicería y fabricación de encurtidos, pescadería, floristas y  panaderías.",
+                "navPrevGrid":"3/6/8/11",
+                "navNextGrid":"24/15/29/20",
+                "titleGrid":"6/25/9/30",
+                "photos": {
+                    "0": {
+                        "jpg": "feria1.webp",
+                        "epigraph": "Ferias Francas. C. 1913.  Col.  Caras y Caretas. Buenos Aires Museo",
+                        "gridArea":"11/1/17/5",
+                        "delay": "50",
+                        "direction": "ltr"
+                    },
+                    "1": {
+                        "jpg": "feria2.webp",
+                        "epigraph": "Puesto de pan en el mercado. 1913. Col.  Caras y Caretas. Buenos Aires Museo",
+                        "gridArea":"22/6/28/10",
+                        "delay": "200",
+                        "direction": null
+                    },
+                    "2": {
+                        "jpg": "feria3.webp",
+                        "epigraph": "Venta de aves  en el mercado. 1904",
+                        "gridArea":"8/5/22/15",
+                        "delay": "50",
+                        "direction": "ltr"
+                    },
+                    "3": {
+                        "jpg": "feria4.webp",
+                        "epigraph": "Frigorífico, carne para exportación. 1906. Col.  Caras y Caretas. Buenos Aires Museo",
+                        "gridArea":"22/10/29/15",
+                        "delay": "40",
+                        "direction": null
+                    },
+                    "4": {
+                        "jpg": "feria5.webp",
+                        "epigraph": "Puesto de carne en el mercado. C. 1916. Col.  Caras y Caretas. Buenos Aires Museo",
+                        "gridArea":"1/11/8/15",
+                        "delay": "70",
+                        "direction": null
+                    },
+                    "5": {
+                        "jpg": "feria6.webp",
+                        "epigraph": "Carnicería en el mercado. C. 1916. Col.  Caras y Caretas. Buenos Aires Museo",
+                        "gridArea":"17/15/24/20",
+                        "delay": "100",
+                        "direction": null
+                    },
+                    "6": {
+                        "jpg": "feria7.webp",
+                        "epigraph": "Vendedora de pescado. C. 1929. Col.  Caras y Caretas. Buenos Aires Museo",
+                        "gridArea":"9/15/17/22",
+                        "delay": "200",
+                        "direction": "ltr"
+                    },
+                    "7": {
+                        "jpg": "feria8.webp",
+                        "epigraph": "Vendedora de pescado. C. 1929. Col.  Caras y Caretas. Buenos Aires Museo",
+                        "gridArea":"2/15/9/21",
+                        "delay": null,
+                        "direction": null
+                    },
+                    "8": {
+                        "jpg": "feria9.webp",
+                        "epigraph": "Mujer atiende en carnicería. Col.  Caras y Caretas. Buenos Aires Museo",
+                        "gridArea":"4/21/9/25",
+                        "delay": null,
+                        "direction": "ttb"
+                    },
+                    "9": {
+                        "jpg": "feria10.webp",
+                        "epigraph": "El baile de clausura del mercado Lorea. 1909. Equipo de fotógrafos de Caras y Caretas",
+                        "gridArea":"22/20/28/23",
+                        "delay": null,
+                        "direction": null
+                    },
+                    "10": {
+                        "jpg": "feria11.webp",
+                        "epigraph": "Ferias Francas. C. 1913. Col.  Caras y Caretas. Buenos Aires Museo",
+                        "gridArea":"17/26/22/28",
+                        "delay": "100",
+                        "direction": null
+                    },
+                    "11": {
+                        "jpg": "feria12.webp",
+                        "epigraph": "Ferias Francas. C. 1913.  Col.  Caras y Caretas. Buenos Aires Museo",
+                        "gridArea":"9/22/17/30",
+                        "delay": null,
+                        "direction": null
+                    },
+                    "12": {
+                        "jpg": "feria13.webp",
+                        "epigraph": "Feria Calle Iriarte  en Barracas. C. 1915",
+                        "gridArea":"17/20/22/26",
+                        "delay": "250",
+                        "direction": null
+                    }
+                }
+            },
+            "2": {
+                "title": "Oficios",
+                "isHome": false,
+                "hasVideo": true,
+                "subtitle": "Las mujeres de clases populares fueron empleadas principalmente en fábricas y talleres de confección de indumentaria, o en labores domésticas. Los varones trabajaron en comercios, fábricas y en la administración pública. También en oficios de albañilería, electricidad, mecánica, herrería, carpintería, pintura, panadería, peluquería, sastrería, confección de zapatos y la venta ambulante.",
+                "navPrevGrid":"9/5/14/10",
+                "navNextGrid":"20/24/25/30",
+                "titleGrid":"1/27/11/29",
+                "photos": {
+                    "0": {
+                        "jpg": "oficios1.webp",
+                        "epigraph": "Modista en taller. 1912. Equipo de fotógrafos de Caras y Caretas",
+                        "gridArea":"17/1/24/5",
+                        "delay": "50",
+                        "direction": null
+                    },
+                    "1": {
+                        "jpg": "oficios2.webp",
+                        "epigraph": "El telar. Industrias primitivas. C. 1905. Equipo de fotógrafos Caras y Caretas",
+                        "gridArea":"22/6/28/10",
+                        "delay": "200",
+                        "direction": null
+                    },
+                    "2": {
+                        "jpg": "oficios3.webp",
+                        "epigraph": "Obrera utilizando máquina a gas para planchar camisas. 1912. Equipo de fotógrafos Caras y Caretas",
+                        "gridArea":"14/5/22/10",
+                        "delay": "100",
+                        "direction": "ltr"
+                    },
+                    "3": {
+                        "jpg": "oficios4.webp",
+                        "epigraph": "Compañía textil Sudamérica. C. 1908. Equipo de fotógrafos de Caras y Caretas",
+                        "gridArea":"17/10/26/15",
+                        "delay": "40",
+                        "direction": null
+                    },
+                    "4": {
+                        "jpg": "oficios5.webp",
+                        "epigraph": "Interior de un taller de sombreros de señoras. 1915. Equipo de fotógrafos de Caras y Caretas",
+                        "gridArea":"1/10/17/15",
+                        "delay": "70",
+                        "direction": "ltr"
+                    },
+                    "5": {
+                        "jpg": "oficios6.webp",
+                        "epigraph": "Local de puños y cuellos en estación de Subte A. Buenos Aires Museo",
+                        "gridArea":"11/15/24/20",
+                        "delay": "100",
+                        "direction": "btt"
+                    },
+                    "6": {
+                        "jpg": "oficios7.webp",
+                        "epigraph": "Peluquería Tienda Harrods. C.  1940. Col.  Caras y Caretas. Buenos Aires Museo",
+                        "gridArea":"5/15/11/18",
+                        "delay": "200",
+                        "direction": null
+                    },
+                    "7": {
+                        "jpg": "oficios8.webp",
+                        "epigraph": "Col.  Caras y Caretas. Buenos Aires Museo",
+                        "gridArea":"1/18/11/23",
+                        "delay": null,
+                        "direction": null
+                    },
+                    "8": {
+                        "jpg": "oficios9.webp",
+                        "epigraph": "El chef del Congreso Antonio Gonzaga, preparando chorizos y salchichas para los Diputados. 1928. Col.  Caras y Caretas. Buenos Aires Museo",
+                        "gridArea":"20/20/27/24",
+                        "delay": null,
+                        "direction": "ttb"
+                    },
+                    "9": {
+                        "jpg": "oficios10.webp",
+                        "epigraph": "Taller de Caras y Caretas. Una de las rotativas de la imprenta en mejoras.1911. Equipo de fotógrafos de Caras y Caretas",
+                        "gridArea":"24/15/29/20",
+                        "delay": null,
+                        "direction": "btt"
+                    },
+                    "10": {
+                        "jpg": "oficios11.webp",
+                        "epigraph": "Talleres de Caras y Caretas. Sección Composición y armado. 1911. Equipo de fotógrafos de Caras y Caretas",
+                        "gridArea":"4/23/11/27",
+                        "delay": "100",
+                        "direction": null
+                    },
+                    "11": {
+                        "jpg": "oficios12.webp",
+                        "epigraph": "Telegrafistas. 1906. Equipo de fotógrafos de Caras y Caretas",
+                        "gridArea":"11/20/20/30",
+                        "delay": "250",
+                        "direction": null
+                    },
+                    "12": {
+                        "jpg": "oficios13.webp",
+                        "epigraph": "Reparación de pavimento. C. 1930. SecPlan",
+                        "gridArea":"25/24/29/28",
+                        "delay": null,
+                        "direction": null
+                    },
+                    "13": {
+                        "isVideo": true,
+                        "jpg": "oficios14.webp",
+                        "video": "oficios1.mp4",
+                        "epigraph": "Mujeres trabajando. 1939",
+                        "gridArea":"26/10/31/15",
+                        "delay": "50",
+                        "direction": null
+                    }
+                }
+            },
+            "3": {
+                "title": "Prácticas urbanas",
+                "isHome": false,
+                "hasVideo": true,
+                "subtitle": "Los trabajadores urbanos tuvieron acceso a nuevas condiciones de vida, de consumo y educación. También adaptaron y modificaron sus gustos en función de  los hábitos de consumo cultural que la gran capital ofrecía.",
+                "navPrevGrid":"14/5/19/10",
+                "navNextGrid":"6/18/11/23",
+                "titleGrid":" 26/1/28/10",
+                "photos": {
+                    "0": {
+                        "jpg": "practicas1.webp",
+                        "epigraph": "Dirigible Graf Zeppelin sobre Buenos Aires. 30 de junio de 1934. Col. Bourquin. Buenos Aires Museo.",
+                        "gridArea":"6/1/14/5",
+                        "delay": null,
+                        "direction": "ltr"
+                    },
+                    "1": {
+                        "jpg": "practicas2.webp",
+                        "epigraph": "Patio Andaluz en el Parque 3 de Febrero. donado por el Ayuntamiento de la ciudad de Sevilla en 1929. C.1930.Col. Bourquin. Buenos Aires Museo.",
+                        "gridArea":" 1/10/11/18",
+                        "delay": "100",
+                        "direction": null
+                    },
+                    "2": {
+                        "jpg": "practicas3.webp",
+                        "epigraph": "Av. Paseo de la Infanta. Parque 3 de Febrero. C. 1916. Col. Parques Paseos. Buenos Aires Museo.",
+                        "gridArea":"14/1/21/5",
+                        "delay": "250",
+                        "direction": null
+                    },
+                    "3": {
+                        "jpg": "practicas4.webp",
+                        "epigraph": "Parque Lezama. C. 1915. Col. Parques y Paseos. Buenos Aires Museo.",
+                        "gridArea":"19/15/31/20",
+                        "delay": "50",
+                        "direction": "ttb"
+                    },
+                    "4": {
+                        "jpg": "practicas5.webp",
+                        "epigraph": "Zoológico.  C. 1900. Buenos Aires Museo.",
+                        "gridArea":"3/5/14/10",
+                        "delay": null,
+                        "direction": null
+                    },
+                    "5": {
+                        "jpg": "practicas6.webp",
+                        "epigraph": "Zoológico. C. 1910. Buenos Aires Museo.",
+                        "gridArea":"11/10/19/15",
+                        "delay": null,
+                        "direction": "ltr"
+                    },
+                    "6": {
+                        "jpg": "practicas7.webp",
+                        "epigraph": "Maestra y alumnos en el Zoológico.  C. 1900. Buenos Aires Museo.",
+                        "gridArea":"11/15/19/20",
+                        "delay": "150",
+                        "direction": null
+                    },
+                    "7": {
+                        "jpg": "practicas8.webp",
+                        "epigraph": "Balneario Municipal de la Costanera Sud. C. 1930.Col. Bourquin.  Buenos Aires Museo.",
+                        "gridArea":"1/18/6/23",
+                        "delay": "40",
+                        "direction": null
+                    },
+                    "8": {
+                        "jpg": "practicas9.webp",
+                        "epigraph": "Balneario Costanera Sur. C. 1940. AGN",
+                        "gridArea":"20/20/27/24",
+                        "delay": null,
+                        "direction": null
+                    },
+                    "9": {
+                        "jpg": "practicas10.webp",
+                        "epigraph": "Línea A de subte",
+                        "gridArea":"20/28/25/30",
+                        "delay": null,
+                        "direction": null
+                    },
+                    "10": {
+                        "jpg": "practicas11.webp",
+                        "epigraph": "Constitución C.1930.  Col. Caras y Caretas. Buenos Aires Museo.",
+                        "gridArea":"4/23/11/27",
+                        "delay": "250",
+                        "direction": "ttb"
+                    },
+                    "11": {
+                        "jpg": "practicas12.webp",
+                        "epigraph": "Calle Corrientes. C. 1930. Col.  Caras y Caretas. Buenos Aires Museo.",
+                        "gridArea":"11/20/20/30",
+                        "delay": null,
+                        "direction": null
+                    },
+                    "12": {
+                        "jpg": "practicas13.webp",
+                        "epigraph": "Av Callao Ca 1930. Col.  Caras y Caretas. Buenos Aires Museo.",
+                        "gridArea":"20/24/26/28",
+                        "delay": "40",
+                        "direction": null
+                    },
+                    "13": {
+                        "isVideo": true,
+                        "jpg": "practicas14.webp",
+                        "video": "practicas1.mp4",
+                        "epigraph": "Moda porteña",
+                        "gridArea":"19/10/26/15",
+                        "delay": "50",
+                        "direction": null
+                    }
+                }
+            },
+            "4": {
+                "title": "Carnaval",
+                "isHome": false,
+                "hasVideo": false,
+                "subtitle": "Los bailes y carnavales tuvieron su esplendor entre  las décadas de 1920 y 1930. Los bares, confitería y restaurantes eran los principales lugares de encuentro  para estos festejos en el espacio público, con corsos y comparsas.",
+                "navPrevGrid":"3/6/8/11",
+                "navNextGrid":"24/15/29/20",
+                "titleGrid":"22/23/24/27",
+                "photos": {
+                    "0": {
+                        "jpg": "carnaval1.webp",
+                        "epigraph": "Disfraces de carnaval. 1911. Equipo de fotógrafos Caras y Caretas",
+                        "gridArea":"11/1/17/5",
+                        "delay": "50",
+                        "direction": "ltr"
+                    },
+                    "1": {
+                        "jpg": "carnaval2.webp",
+                        "epigraph": "Niños disfrazados. 1911. Equipo de fotógrafos de Caras y Caretas",
+                        "gridArea":"4/23/11/27",
+                        "delay": "200",
+                        "direction": null
+                    },
+                    "2": {
+                        "jpg": "carnaval3.webp",
+                        "epigraph": "Niño disfrazado. 1910. Equipo de fotógrafos de Caras y Caretas",
+                        "gridArea":"8/5/22/15",
+                        "delay": "50",
+                        "direction": "ltr"
+                    },
+                    "3": {
+                        "jpg": "carnaval4.webp",
+                        "epigraph": "Retrato familiar.  Buenos Aires Museo",
+                        "gridArea":"22/10/29/15",
+                        "delay": "40",
+                        "direction": null
+                    },
+                    "4": {
+                        "jpg": "carnaval5.webp",
+                        "epigraph": "Retrato de niños disfrazados. Foto Bixio & Cia. Buenos Aires Museo",
+                        "gridArea":"17/26/22/28",
+                        "delay": "70",
+                        "direction": null
+                    },
+                    "5": {
+                        "jpg": "carnaval6.webp",
+                        "epigraph": "Nena disfrazada de arlequín.Foto Dagnino Hnos. Buenos Aires Museo",
+                        "gridArea":"17/15/24/20",
+                        "delay": "100",
+                        "direction": null
+                    },
+                    "6": {
+                        "jpg": "carnaval7.webp",
+                        "epigraph": "Nena disfrazada de Asturiana. Foto Dagnino Hnos. Buenos Aires Museo",
+                        "gridArea":"1/11/8/15",
+                        "delay": "200",
+                        "direction": "ltr"
+                    },
+                    "7": {
+                        "jpg": "carnaval8.webp",
+                        "epigraph": "Nena disfrazada. Foto Dagnino Hnos. Buenos Aires Museo",
+                        "gridArea":"22/6/28/10",
+                        "delay": null,
+                        "direction": null
+                    },
+                    "8": {
+                        "jpg": "carnaval9.webp",
+                        "epigraph": "Preparativos de carnaval. C. 1930. Col.  Caras y Caretas. Buenos Aires Museo",
+                        "gridArea":"17/20/22/26",
+                        "delay": null,
+                        "direction": "ttb"
+                    },
+                    "9": {
+                        "jpg": "carnaval10.webp",
+                        "epigraph": "Av. de Mayo de Noche en carnaval.  C 1922.  Col. Parques Paseos. Buenos Aires Museo",
+                        "gridArea":"22/20/28/23",
+                        "delay": null,
+                        "direction": null
+                    },
+                    "10": {
+                        "jpg": "carnaval11.webp",
+                        "epigraph": "Av de Mayo y Perú de noche de carnaval. C. 1928.  Col. Parques Paseos. Buenos Aires Museo",
+                        "gridArea":"2/15/9/23",
+                        "delay": "100",
+                        "direction": null
+                    },
+                    "11": {
+                        "jpg": "carnaval12.webp",
+                        "epigraph": "Av. de Mayo de Noche en carnaval.  C. 1922.   Col.Parques Paseos. Buenos Aires Museo",
+                        "gridArea":"11/23/17/30",
+                        "delay": null,
+                        "direction": null
+                    },
+                    "12": {
+                        "jpg": "carnaval13.webp",
+                        "epigraph": "Av. de Mayo de Noche en carnaval.  C 1924.  Col. Parques Paseos. Buenos Aires Museo",
+                        "gridArea":"9/15/17/23",
+                        "delay": "250",
+                        "direction": null
+                    }
+                }
+            },
+            "5": {
+                "title": "Tiendas y confiterías",
+                "isHome": false,
+                "hasVideo": false,
+                "subtitle": "Las tiendas, cafeterías y  cines-teatros se multiplicaron, incrementaron el consumo e impactaron en  los modos de vestir, comer y entretenerse. Las más destacadas fueron Gath & Chaves, Tiendas Harrods y Confitería El Molino.",
+                "navPrevGrid":"9/5/14/10",
+                "navNextGrid":"20/24/25/30",
+                "titleGrid":"1/27/11/29",
+                "photos": {
+                    "0": {
+                        "jpg": "tienda1.webp",
+                        "epigraph": "Confitería en la terraza  en el 8° piso.  Gath & Chaves. C. 1910.Buenos Aires Museo",
+                        "gridArea":"17/1/24/5",
+                        "delay": "50",
+                        "direction": null
+                    },
+                    "1": {
+                        "jpg": "tienda2.webp",
+                        "epigraph": "Puerta principal de la casa central Gath & Chaves. C. 1915. Buenos Aires Museo",
+                        "gridArea":"22/6/28/10",
+                        "delay": "200",
+                        "direction": null
+                    },
+                    "2": {
+                        "jpg": "tienda3.webp",
+                        "epigraph": "Un bar. C. 1910. Col. Caras y Caretas. Buenos Aires Museo",
+                        "gridArea":"14/5/22/10",
+                        "delay": "100",
+                        "direction": "ltr"
+                    },
+                    "3": {
+                        "jpg": "tienda4.webp",
+                        "epigraph": "Interior de un bar. Buenos Aires Museo",
+                        "gridArea":"17/10/26/15",
+                        "delay": "40",
+                        "direction": null
+                    },
+                    "4": {
+                        "jpg": "tienda5.webp",
+                        "epigraph": "Los 36 Billares. C. 1936. Col.  Caras y Caretas. Buenos Aires Museo",
+                        "gridArea":"1/10/17/15",
+                        "delay": "70",
+                        "direction": "ltr"
+                    },
+                    "5": {
+                        "jpg": "tienda6.webp",
+                        "epigraph": "Col.  Caras y Caretas. Buenos Aires Museo",
+                        "gridArea":"11/15/24/20",
+                        "delay": "100",
+                        "direction": "btt"
+                    },
+                    "6": {
+                        "jpg": "tienda7.webp",
+                        "epigraph": "Tienda Harrods. Col.  Caras y Caretas. Buenos Aires Museo",
+                        "gridArea":"5/15/11/18",
+                        "delay": "200",
+                        "direction": null
+                    },
+                    "7": {
+                        "jpg": "tienda8.webp",
+                        "epigraph": "Tienda Harrods. Sector niñas. Buenos Aires Museo",
+                        "gridArea":"1/18/11/23",
+                        "delay": null,
+                        "direction": null
+                    },
+                    "8": {
+                        "jpg": "tienda9.webp",
+                        "epigraph": "Tienda Harrods. Mostradores con encajes. Buenos Aires Museo",
+                        "gridArea":"20/20/27/24",
+                        "delay": null,
+                        "direction": "ttb"
+                    },
+                    "9": {
+                        "jpg": "tienda10.webp",
+                        "epigraph": "Tienda Harrods. Bazar. Buenos Aires Museo",
+                        "gridArea":"24/15/29/20",
+                        "delay": null,
+                        "direction": "btt"
+                    },
+                    "10": {
+                        "jpg": "tienda11.webp",
+                        "epigraph": "Gath & Chaves. Interior. Buenos Aires Museo",
+                        "gridArea":"4/23/11/27",
+                        "delay": "100",
+                        "direction": null
+                    },
+                    "11": {
+                        "jpg": "tienda12.webp",
+                        "epigraph": "Esquina de Maipú y Cuyo. 1910",
+                        "gridArea":"11/20/20/30",
+                        "delay": "250",
+                        "direction": null
+                    },
+                    "12": {
+                        "jpg": "tienda13.webp",
+                        "epigraph": "Comercios en Defensa y Alsina. Los Altos de Elorriaga. C. 1939. Fondo Documental Buenos Aires Museo",
+                        "gridArea":"25/24/29/28",
+                        "delay": null,
+                        "direction": null
+                    }
+                }
+            },
+            "6": {
+                "title": "Transporte",
+                "isHome": false,
+                "hasVideo": true,
+                "subtitle": "",
+                "navPrevGrid":"5/9/10/15",
+                "navNextGrid":"15/15/21/22",
+                "titleGrid":"2/24/13/29",
+                "photos": {
+                    "0": {
+                        "isVideo": true,
+                        "jpg": "transporte1.webp",
+                        "video": "transporte1.mp4",
+                        "epigraph": "AGN. Extracto Modernización del transporte urbano. 1948",
+                        "gridArea":"10/6/19/15",
+                        "delay": "50",
+                        "direction": null
+                    },
+                    "1": {
+                        "isVideo": true,
+                        "jpg": "transporte2.webp",
+                        "video": "transporte2.mp4",
+                        "epigraph": "AGN.Vista aérea de la Ciudad Autónoma de Buenos Aires, 1953",
+                        "gridArea":"3/15/15/24",
+                        "delay": null,
+                        "direction": "ttb"
+                    }
+                }
+            },
+            "7": {
+                "title": "Vistas icónicas",
+                "isHome": false,
+                "hasVideo": true,
+                "subtitle": "",
+                "navPrevGrid":"8/2/16/9",
+                "navNextGrid":"1/18/9/26",
+                "titleGrid":"9/23/20/27",
+                "photos": {
+                    "0": {
+                        "isVideo": true,
+                        "jpg": "vistas1.webp",
+                        "video": "vistas1.mp4",
+                        "epigraph": "Excursión a Palermo, 1908",
+                        "gridArea":"2/10/9/18",
+                        "delay": "50",
+                        "direction": null
+                    },
+                    "1": {
+                        "isVideo": true,
+                        "jpg": "vistas2.webp",
+                        "video": "vistas2.mp4",
+                        "epigraph": "AGN. Buenos Aires año 1924",
+                        "gridArea":"9/9/17/17",
+                        "delay": "200",
+                        "direction": null
+                    },
+                    "2": {
+                        "isVideo": true,
+                        "jpg": "vistas3.webp",
+                        "video": "vistas3.mp4",
+                        "epigraph": "RTA. Buenos Aires en relieve (película). Dir. Don Napy. Año 1954",
+                        "gridArea":"9/17/18/23",
+                        "delay": "100",
+                        "direction": null
+                    },
+                    "3": {
+                        "isVideo": true,
+                        "jpg": "vistas4.webp",
+                        "video": "vistas4.mp4",
+                        "epigraph": "Dirigible Graf Zeppelin sobrevuela Buenos Aires. 1934",
+                        "gridArea":"17/8/25/17",
+                        "delay": null,
+                        "direction": "ttb"
+                    }
+                }
+            },
+            "8": {
+                "title": "Verano e invierno",
+                "isHome": false,
+                "hasVideo": true,
+                "subtitle": "",
+                "navPrevGrid":"9/5/14/10",
+                "navNextGrid":"17/21/22/26",
+                "titleGrid":"7/17/9/25",
+                "photos": {
+                    "0": {
+                        "isVideo": true,
+                        "jpg": "verano1.webp",
+                        "video": "verano1.mp4",
+                        "epigraph": "Verano en Buenos Aires, 1969",
+                        "gridArea":"2/9/9/17",
+                        "delay": "50",
+                        "direction": null
+                    },
+                    "1": {
+                        "isVideo": true,
+                        "jpg": "verano2.webp",
+                        "video": "verano2.mp4",
+                        "epigraph": "AGN. Ola de calor en Buenos Aires, 1959",
+                        "gridArea":"14/1/22/10",
+                        "delay": "200",
+                        "direction": "ttb"
+                    },
+                    "2": {
+                        "isVideo": true,
+                        "jpg": "verano3.webp",
+                        "video": "verano3.mp4",
+                        "epigraph": "Calor en Buenos Aires. C. 1962",
+                        "gridArea":"9/10/28/16",
+                        "delay": "100",
+                        "direction": null
+                    },
+                    "3": {
+                        "isVideo": true,
+                        "jpg": "verano4.webp",
+                        "video": "verano4.mp4",
+                        "epigraph": "AGN. ¡Ha llegado el frío! 1956",
+                        "gridArea":"9/16/17/25",
+                        "delay": null,
+                        "direction": "ttb"
+                    },
+                    "4": {
+                        "isVideo": true,
+                        "jpg": "verano5.webp",
+                        "video": "verano5.mp4",
+                        "epigraph": "Récord de frío en Buenos Aires, 1948",
+                        "gridArea":"17/16/32/21",
+                        "delay": null,
+                        "direction": null
+                    },
+                    "5": {
+                        "isVideo": true,
+                        "jpg": "verano6.webp",
+                        "video": "verano6.mp4",
+                        "epigraph": "Prevenirse contra el frío",
+                        "gridArea":"22/21/28/29",
+                        "delay": "200",
+                        "direction": null
+                    }
+                }
+            },
+            "9": {
+                "title": "Desde la infancia",
+                "isHome": false,
+                "hasVideo": false,
+                "subtitle": "¡Aquí algunas imágenes de niñas y niños jugando en la ciudad! Podés buscar a Lola en este dispositivo y aprender más sobre las infancias en Buenos Aires.",
+                "navPrevGrid":"3/6/8/11",
+                "navNextGrid":"24/15/29/20",
+                "titleGrid":"9/22/11/30",
+                "photos": {
+                    "0": {
+                        "jpg": "infancia1.webp",
+                        "epigraph": "Niñas realizando labores de costura en la plaza. C. 1920. Col.  Parques Paseos. Buenos Aires Museo",
+                        "gridArea":"11/1/17/5",
+                        "delay": "50",
+                        "direction": "ltr"
+                    },
+                    "1": {
+                        "jpg": "infancia2.webp",
+                        "epigraph": "Juegos infantiles en el Parque 3 de febrero. C. 1916. Col.  Parques Paseos. Buenos Aires Museo",
+                        "gridArea":"22/6/28/10",
+                        "delay": "200",
+                        "direction": null
+                    },
+                    "2": {
+                        "jpg": "infancia3.webp",
+                        "epigraph": "Juegos infantiles.  Parques Paseos. Buenos Aires Museo",
+                        "gridArea":"8/5/22/15",
+                        "delay": "50",
+                        "direction": "ltr"
+                    },
+                    "3": {
+                        "jpg": "infancia4.webp",
+                        "epigraph": "Jóvenes en la  Escuela de jardinería del Jardín Botánico.. C. 1923. Col.  Parques Paseos. Buenos Aires Museo",
+                        "gridArea":"22/10/29/15",
+                        "delay": "40",
+                        "direction": null
+                    },
+                    "4": {
+                        "jpg": "infancia5.webp",
+                        "epigraph": "Excursión escolar. Col.  Parques Paseos. Buenos Aires Museo",
+                        "gridArea":"1/11/8/15",
+                        "delay": "70",
+                        "direction": null
+                    },
+                    "5": {
+                        "jpg": "infancia6.webp",
+                        "epigraph": "Colegio de huérfanas. C. 1923. Col. Caras y Caretas. Buenos Aires Museo",
+                        "gridArea":"17/15/24/20",
+                        "delay": "100",
+                        "direction": null
+                    },
+                    "6": {
+                        "jpg": "infancia7.webp",
+                        "epigraph": "Niña y niños en el  Patronato de la infancia. C.  1910-1915",
+                        "gridArea":"9/15/17/22",
+                        "delay": "200",
+                        "direction": "ltr"
+                    },
+                    "7": {
+                        "jpg": "infancia8.webp",
+                        "epigraph": "Equipo de fotógrafos Caras y Caretas. Patronato de la infancia. El día de los niños pobres. 1909",
+                        "gridArea":"2/15/9/21",
+                        "delay": null,
+                        "direction": null
+                    },
+                    "8": {
+                        "jpg": "infancia9.webp",
+                        "epigraph": "Parque Chacabuco C. 1930. AGN",
+                        "gridArea":"4/21/9/25",
+                        "delay": null,
+                        "direction": "ttb"
+                    },
+                    "9": {
+                        "jpg": "infancia10.webp",
+                        "epigraph": "Parque Chacabuco C. 1930. AGN",
+                        "gridArea":"21 / 20 / 28 / 25",
+                        "delay": null,
+                        "direction": null
+                    }
+                }
+            }
+        }
+    }
+}

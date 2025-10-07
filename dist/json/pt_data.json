@@ -1,0 +1,59 @@
+{
+    "align": "left",
+    "content": {
+        "title": "O que você achou da experiência?",
+        "subtitle": "Ajude-nos a melhorar com esta pesquisa de satisfação",
+        "questionHeader": "Questão",
+        "startButton": "Começar",
+        "endTitle": "Muito obrigado por nos ajudar a melhorar a experiência!",
+        "restartButton": "Reiniciar",
+        "exitTitle": "Agradecemos a sua visita",
+        "exitDescription": "Obrigado pela sua visita ao museu. Estamos quase fechando. <br> Nos vemos amanhã a partir das 10h00.",
+        "langButtons": {
+            "es": "Español",
+            "en": "English",
+            "pt": "Português"
+        },
+        "questions": {
+            "0": {
+                "q": "O que você achou do conteúdo visto nas diferentes aplicações?",
+                "answers": {
+                    "0": "Muito bom",
+                    "1": "Boa",
+                    "2": "Mau",
+                    "3": "Indiferente"
+                }
+            },
+            "1": {
+                "q": "Como você avalia a atenção da equipe do museu?",
+                "answers": {
+                    "0": "Muito bom",
+                    "1": "Boa",
+                    "2": "Mau",
+                    "3": "Indiferente"
+                }
+            },
+            "2": {
+                "q": "Você considera que a infraestrutura do museu é:",
+                "answers": {
+                    "0": "Visualmente atraente",
+                    "1": "Pode ser melhor",
+                    "2": "Não gosto",
+                    "3": "Indiferente"
+                }
+            },
+            "3": {
+                "q": "A equipe o mantém informado sobre os serviços que o museu oferece?",
+                "answers": {
+                    "0": "Eles me ajudaram muito",
+                    "1": "Eu não ouvi sobre os serviços"
+                }
+            }
+        },
+        "tips": {
+            "0": "O Obelisco foi construído em 1936 por ocasião do quarto centenário da chamada primeira fundação de Buenos Aires por Pedro de Mendoza.",
+            "1": "Em março de 1937, por decreto do prefeito Mariano de Vedia y Mitre, foi ordenada a abertura da Avenida 9 de Julio, com base nos projetos de Della Paolera.",
+            "2": "O teatro Colón funcionava em dois edifícios, o primeiro localizado na Plaza de Mayo até 1888 e o segundo localizado em frente à Plaza Lavalle, que demorou 20 anos para ser construída até sua inauguração em 1908."
+        }
+    }
+}

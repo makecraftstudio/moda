@@ -1,0 +1,313 @@
+$base-color: #fff;
+
+$hover-color: #26a3ec;
+
+
+.box {
+
+  position: absolute;
+ 
+  top:40%;
+
+  left:20px;
+  
+  font-size: 0;
+
+}
+
+
+.face {
+
+  width:30px;
+  
+  height:30px;
+  
+  $thickness: 2px;
+  
+  $color: #ddd;
+  
+  position: absolute;
+  
+  display: inline-block;
+  
+  margin: 0 auto;
+  
+  background-color: #ccc;
+  
+  margin: 0 auto;  
+  
+  transform: rotateY(0deg) rotateX(55deg) rotateZ(-45deg);
+  
+  transform-style: preserve-3d;
+  
+  &:before {
+    
+    content: "";
+    
+    position: absolute;
+    
+    bottom: -$thickness / 2;
+    
+    left: 0;
+    
+    background-color: $color;
+    
+    width: 100%;
+    
+    height: $thickness;
+    
+    display: block;
+    
+    transform: rotateX(90deg) translateY(-$thickness / 2);
+  }
+
+  
+  &:after {
+    
+    content: "";
+    
+    position: absolute;
+    
+    top: 0;
+    
+    left: -$thickness / 2;
+    
+    width: $thickness;
+    
+    height: 100%;
+    
+    background-color: darken($color, 10%);
+    
+    transform: rotateY(90deg) translateX($thickness / 2);
+  }
+
+}
+
+
+.face-0{
+
+  top:20px;
+
+  background-color: #ccc;
+
+}
+
+.face-1{
+
+
+  top:10px;
+
+
+  background-color: #ddd;
+
+}
+
+.face-2{
+
+   background-color: #fff;
+
+}
+
+.floor-label{
+
+  margin-left: 50px;
+
+  margin-top:20px;
+
+  text-transform: uppercase;
+
+  
+}
+
+.floor-label-content{
+
+    font-size: 0.8rem;
+
+  }
+
+
+.face-0:hover, .face-1:hover, .face-2:hover {
+
+  background-color:#26a3ec;
+
+  transition: 0.3s;
+
+  opacity: .6;
+
+}
+
+.face-selected{
+
+  background-color:#26a3ec;
+
+}
+
+.full{
+
+  position:absolute;
+  z-index:200;
+}
+
+#controls{
+
+  top:-93px;
+
+  position:absolute;
+
+  width: 100%;
+  
+  height: 50px;
+
+  z-index:200;
+  
+}
+
+ul{
+
+  position: absolute;
+
+  top: 50%;
+
+  left: 50%;
+
+  transform: translate(-50%, -50%);
+
+  margin:0;
+
+  padding:10px 0;
+
+  //background:#fff;
+
+  background-color:rgba(0, 0, 0, 0.6);
+
+  display:flex;
+
+  border-radius:10px;
+
+  box-shadow: 0 10px 30px rgba(0,0,0,.3);
+
+}
+
+ul li{
+
+  list-style:none;
+
+  text-align:center;
+
+  display:block;
+
+  border-right:1px solid rgba(0,0,0,0.2);
+
+}
+
+ul li:last-child{
+
+  border-right:none;
+
+}
+
+ul li a{
+
+  text-decoration:none;
+
+  padding:0 20px;
+
+  display:block;
+
+}
+
+ul li a .icon{
+
+  height:20px;
+
+  width:20px;
+
+  text-align:center;
+
+  overflow:hidden;
+
+  margin:0 auto 5px;
+}
+
+ul li a .icon .fas{ 
+
+  height:100%;
+
+  width:100%;
+
+  line-height:1em;
+
+  font-size:1em;
+
+  transition:0.5s;
+
+  color:$base-color;
+}
+
+ul li a .icon .fas:last-child{ color:$hover-color; }
+
+ul li a:hover .icon .fas{ transform:translatey(-110%); }
+
+ul li a .text{
+
+  text-transform: uppercase;
+
+  position:relative;
+
+  height:20px;
+
+  width:100%;
+
+  display:block;
+
+  overflow:hidden;
+
+}
+
+ul li a .text span{
+
+  position:relative;
+
+  font-size:0.75em;
+
+  color: $base-color;
+
+  display:block;
+
+  line-height:20px;
+
+  transition:0.5s;
+
+}
+
+ul li a .text span:before{
+
+  content:attr(data-text);
+
+  position:absolute;
+
+  top:-100%;
+
+  left:0;
+
+  height:100%;
+
+  width:100%;
+
+  color:$hover-color;
+
+}
+
+ul li a:hover .text span{
+
+  transform:translatey(20px);
+
+}
+
+@media screen and (max-width: 450px) {
+
+  ul li a{ padding: 0 5px; }
+
+  ul li a .text span{ font-size:0.6em; }
+
+}
